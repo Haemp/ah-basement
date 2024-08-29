@@ -10,6 +10,7 @@ This is a paragraph formatted with multiple newlines
 
 ### Table
 | col 1 | col 2 |
+|------------------------------------------|-----------|
 | foo   | bar.   |
 
 This is a paragraph formatted with multiple newlines
