@@ -5,6 +5,14 @@ ah-basement
 
 ## Subheader
 
+### H3 header
+
+#### H4 header
+
+##### h5 header
+
+##### h6 header
+
 This is a paragraph formatted with multiple newlines
 This is a paragraph formatted with multiple newlines
 
